@@ -1,0 +1,16 @@
+{
+  "frontendFolder": "D:/UNIVERSIDAD/CUARTO/DIS/REPASO_EXAMEN/TwitterAPI/twitter_examen/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/UNIVERSIDAD/CUARTO/DIS/REPASO_EXAMEN/TwitterAPI/twitter_examen/./frontend/generated/jar-resources",
+  "staticOutput": "D:/UNIVERSIDAD/CUARTO/DIS/REPASO_EXAMEN/TwitterAPI/twitter_examen/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\UNIVERSIDAD\\CUARTO\\DIS\\REPASO_EXAMEN\\TwitterAPI\\twitter_examen\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\UNIVERSIDAD\\CUARTO\\DIS\\REPASO_EXAMEN\\TwitterAPI\\twitter_examen\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "jarResourcesFolder": "D:/UNIVERSIDAD/CUARTO/DIS/REPASO_EXAMEN/TwitterAPI/twitter_examen/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\UNIVERSIDAD\\CUARTO\\DIS\\REPASO_EXAMEN\\TwitterAPI\\twitter_examen\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
