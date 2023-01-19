@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "usuario": "usuario1",
+      "tweet": "Mi primer tweet",
+      "fecha": "20-3-2022"
+      
+    },
+    {
+        "id": 2,
+        "usuario": "usuario2",
+        "tweet": "Mañana concierto",
+        "fecha":"12-6-2022"
+        
+    },
+    {
+        "id": 3,
+        "usuario": "usuario3",
+        "tweet": "Viernes de lokiar",
+        "fecha": "23-3-2022"
+        
+    },
+    {
+        "id": 4,
+        "usuario": "usuario4",
+        "tweet": "Buen dias",
+        "fecha":  "24-3-2022"
+        
+    },
+    {
+        "id": 5,
+        "usuario": "usuario5",
+        "tweet": "Mañana examen de DIS",
+        "fecha": "11-3-2022"
+        
+    },
+    {
+        "id": 6,
+        "usuario": "usuario6",
+        "tweet": "Buenos dias ",
+        "fecha": "16-3-2022"
+        
+    },
+    {
+        "id": 7,
+        "usuario": "usuario7",
+        "tweet": "Mañana concierto amaia",
+        "fecha": "17-3-2022"
+        
+    },
+    {
+        "id": 8,
+        "usuario": "usuario8",
+        "tweet": "Camaron de la isla es el mejor",
+        "fecha": "28-3-2022"
+        
+    },
+    {
+        "id": 9,
+        "usuario": "usuario9",
+        "tweet": "Escuchando music band",
+        "fecha": "19-3-2022"
+        
+    },
+    {
+        "id": 10,
+        "usuario": "usuario10",
+        "tweet": "Estudiando",
+        "fecha": "10-3-2022"
+        
+    }
+
+    
+    
+]
